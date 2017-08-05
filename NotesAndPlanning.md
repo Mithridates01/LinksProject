@@ -17,4 +17,5 @@
         - Schools have differing number of periods that differ in time amount. For simplicity I am making all schools have stand set of periods.
         -
     *** Architecture decisions
+      - Python 3 used for increase future proofing and additional features. Assumption is that I am starting out not in an existing Python > 3 code base
       - 
